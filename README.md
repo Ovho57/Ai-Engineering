@@ -1,32 +1,36 @@
 # AI Learning Books — Choose Your Field First
 
-A beginner-friendly learning repository for two study partners. **Before starting the specialized lessons, choose which AI field you want to learn.** You can change paths later.
+This repository contains **two different AI fields**. The folder names tell you which path you are studying.
 
-## Step 1 — Choose your field
+## Field 1 — AI Engineering (Machine Learning & Neural Networks)
 
-### Field 1: AI Engineering
-Choose this if you want to learn how to build, train, and understand machine-learning models and neural networks.
+**Folder:** `book/`  
+**Book:** AI Engineering — Machine Learning and Neural Networks
 
-**Book 1 title: AI Engineering — Machine Learning and Neural Networks**
+Choose Field 1 if you want to understand data, train machine-learning models, build neural networks, learn PyTorch, and study how language models are built.
 
-You will learn data, machine learning, math, neural networks, PyTorch, model architectures, language models, training, and evaluation.
+[**Open Field 1: AI Engineering**](book/00-start-here.md)
 
-[**Start Book 1 — AI Engineering**](book/00-start-here.md)
+## Field 2 — AI Agent Engineering
 
-### Field 2: AI Agent Engineering
-Choose this if you want to build AI assistants and applications that use tools, APIs, search, memory, and workflows.
+**Folder:** `book-2-ai-agent-engineering/`  
+**Book:** AI Agent Engineering
 
-[**Start Book 2 — AI Agent Engineering**](book-2-ai-agent-engineering/README.md)
+Choose Field 2 if you want to build AI assistants and applications that use LLMs, tools, APIs, memory, retrieval, and workflows.
 
-## Step 2 — Both fields must learn the Core Foundations
+[**Open Field 2: AI Agent Engineering**](book-2-ai-agent-engineering/README.md)
 
-Study the shared core first or alongside your early lessons.
+## Shared Core Foundations — Required for both fields
+
+**File:** `book/13-core-foundations.md`
+
+Both fields need computer science, Python, mathematics, data, AI fundamentals, APIs, Git/GitHub, debugging, testing, and responsible AI.
 
 [**Open Core Foundations**](book/13-core-foundations.md)
 
-Both fields need computer science, Python, math, data, AI fundamentals, APIs, Git/GitHub, debugging, testing, and responsible AI.
+---
 
-## Book 1 — AI Engineering: Machine Learning and Neural Networks
+## Field 1 chapter list — `book/`
 
 - [00 Start here](book/00-start-here.md)
 - [01 Computer science](book/01-computer-science.md)
@@ -41,10 +45,11 @@ Both fields need computer science, Python, math, data, AI fundamentals, APIs, Gi
 - [10 Model engineering](book/10-model-engineering.md)
 - [11 Projects](book/11-projects.md)
 - [12 Glossary](book/12-glossary.md)
+- [13 Core foundations (shared with Field 2)](book/13-core-foundations.md)
 
-## Book 2 — AI Agent Engineering
+## Field 2 chapter list — `book-2-ai-agent-engineering/`
 
-[Open the complete Book 2 chapter index](book-2-ai-agent-engineering/README.md)
+[Open the complete Field 2 chapter index](book-2-ai-agent-engineering/README.md)
 
 ## Recommended tools
 
