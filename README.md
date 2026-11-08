@@ -5,20 +5,20 @@ This repository contains **two different AI fields**. The folder names tell you 
 ## Field 1 — AI Engineering (Machine Learning & Neural Networks)
 
 **Folder:** `book/`  
-**Book:** AI Engineering — Machine Learning and Neural Networks
+**Book 1 title: AI Engineering — Machine Learning and Neural Networks**
 
-Choose Field 1 if you want to understand data, train machine-learning models, build neural networks, learn PyTorch, and study how language models are built.
+Choose Book 1 if you want to understand data, train machine-learning models, build neural networks, learn PyTorch, and study how language models are built.
 
-[**Open Field 1: AI Engineering**](book/00-start-here.md)
+[**Open Book 1: AI Engineering**](book/00-start-here.md)
 
 ## Field 2 — AI Agent Engineering
 
 **Folder:** `book-2-ai-agent-engineering/`  
-**Book:** AI Agent Engineering
+**Book 2 title: AI Agent Engineering**
 
-Choose Field 2 if you want to build AI assistants and applications that use LLMs, tools, APIs, memory, retrieval, and workflows.
+Choose Book 2 if you want to build AI assistants and applications that use LLMs, tools, APIs, memory, retrieval, and workflows.
 
-[**Open Field 2: AI Agent Engineering**](book-2-ai-agent-engineering/README.md)
+[**Open Book 2: AI Agent Engineering**](book-2-ai-agent-engineering/README.md)
 
 ## Shared Core Foundations — Required for both fields
 
@@ -30,7 +30,7 @@ Both fields need computer science, Python, mathematics, data, AI fundamentals, A
 
 ---
 
-## Field 1 chapter list — `book/`
+## Book 1 chapter list — `book/`
 
 - [00 Start here](book/00-start-here.md)
 - [01 Computer science](book/01-computer-science.md)
@@ -45,11 +45,11 @@ Both fields need computer science, Python, mathematics, data, AI fundamentals, A
 - [10 Model engineering](book/10-model-engineering.md)
 - [11 Projects](book/11-projects.md)
 - [12 Glossary](book/12-glossary.md)
-- [13 Core foundations (shared with Field 2)](book/13-core-foundations.md)
+- [13 Core foundations (shared with Book 2)](book/13-core-foundations.md)
 
-## Field 2 chapter list — `book-2-ai-agent-engineering/`
+## Book 2 chapter list — `book-2-ai-agent-engineering/`
 
-[Open the complete Field 2 chapter index](book-2-ai-agent-engineering/README.md)
+[Open the complete Book 2 chapter index](book-2-ai-agent-engineering/README.md)
 
 ## Recommended tools
 
