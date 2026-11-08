@@ -1,4 +1,6 @@
-# 00 — How to Use This Book
+# Book 1 — AI Engineering: Machine Learning and Neural Networks
+
+## 00 — How to Use This Book
 
 ## What is AI engineering?
 Artificial intelligence (AI) is the broad field of making computer systems perform tasks involving prediction, perception, language, or decision-making. AI engineering means designing, implementing, training, evaluating, and operating these systems. This book focuses on machine learning and neural network models, not the separate AI-agent specialization.
