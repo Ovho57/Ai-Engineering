@@ -4,49 +4,29 @@ A beginner-friendly learning repository for two study partners. **Before startin
 
 ## Step 1 — Choose your field
 
-### Field 1: AI Engineering / Machine Learning
-Choose this if you want to understand how AI models are built and trained.
+### Field 1: AI Engineering
+Choose this if you want to learn how to build, train, and understand machine-learning models and neural networks.
 
-You will learn:
-- Data and machine learning.
-- Mathematics behind models.
-- Neural networks from scratch.
-- PyTorch and model architectures.
-- Language models and model training.
-- Evaluation and model engineering.
+**Book 1 title: AI Engineering — Machine Learning and Neural Networks**
 
-**Start Book 1:** [AI Engineering — From Zero to Neural Networks](book/00-start-here.md)
+You will learn data, machine learning, math, neural networks, PyTorch, model architectures, language models, training, and evaluation.
+
+[**Start Book 1 — AI Engineering**](book/00-start-here.md)
 
 ### Field 2: AI Agent Engineering
 Choose this if you want to build AI assistants and applications that use tools, APIs, search, memory, and workflows.
 
-You will learn:
-- LLM APIs and prompts.
-- Tool calling.
-- State and memory.
-- Retrieval-Augmented Generation (RAG).
-- Agent workflows and planning.
-- Evaluation, safety, and deployment.
-
-**Start Book 2:** [AI Agent Engineering](book-2-ai-agent-engineering/README.md)
+[**Start Book 2 — AI Agent Engineering**](book-2-ai-agent-engineering/README.md)
 
 ## Step 2 — Both fields must learn the Core Foundations
 
-Even if you choose only one field, study the shared core first or alongside your early lessons.
+Study the shared core first or alongside your early lessons.
 
-**[Open Core Foundations](book/13-core-foundations.md)**
+[**Open Core Foundations**](book/13-core-foundations.md)
 
-Both fields need:
-- Computer science and programming basics.
-- Python.
-- Math and logical thinking.
-- Data and JSON.
-- AI fundamentals.
-- APIs and HTTP.
-- Git/GitHub and software engineering.
-- Debugging, testing, and responsible AI.
+Both fields need computer science, Python, math, data, AI fundamentals, APIs, Git/GitHub, debugging, testing, and responsible AI.
 
-## Book 1 — AI Engineering / Neural Networks
+## Book 1 — AI Engineering: Machine Learning and Neural Networks
 
 - [00 Start here](book/00-start-here.md)
 - [01 Computer science](book/01-computer-science.md)
